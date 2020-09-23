@@ -38,3 +38,10 @@ node_modules
 
 # MacOS
 .DS_Store
+
+# NPM Package Lock
+package-lock.json
+
+# IntelliJ IDEA
+.idea
+*.iml
