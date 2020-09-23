@@ -123,5 +123,6 @@
   },
   "standard": {
     "parser": "babel-eslint"
-  }
+  },
+  "version": "5.4.0"
 }
